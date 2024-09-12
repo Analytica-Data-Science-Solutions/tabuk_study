@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tabuk_study/static/css/main.dc1a2a6c.css",
+    "main.js": "/tabuk_study/static/js/main.7b234990.js",
+    "static/js/453.4ab7fe34.chunk.js": "/tabuk_study/static/js/453.4ab7fe34.chunk.js",
+    "index.html": "/tabuk_study/index.html",
+    "main.dc1a2a6c.css.map": "/tabuk_study/static/css/main.dc1a2a6c.css.map",
+    "main.7b234990.js.map": "/tabuk_study/static/js/main.7b234990.js.map",
+    "453.4ab7fe34.chunk.js.map": "/tabuk_study/static/js/453.4ab7fe34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1a2a6c.css",
+    "static/js/main.7b234990.js"
+  ]
+}
